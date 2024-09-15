@@ -1,5 +1,4 @@
 # AGE & BIRTHDAY CALCULATOR
-#### Video Demo: https://youtu.be/a-J3n4xMWbQ
 #### Description:
 This Python program prompts user for their birthdate as input in `Month Day, Year` format,
 It prints out their age for the present day and also how many days left till their next birthday.
